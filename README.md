@@ -2,5 +2,9 @@
 
 this is the first file in this repo.
 
-## Ipsum Below
+## Introduction
 asdflkgjhasldkgfjasldkgjlksdgjalskdfgalksdfjlkasdjf.
+
+## Purpose
+
+## How to Contribute
